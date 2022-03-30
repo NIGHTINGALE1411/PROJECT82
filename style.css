@@ -1,0 +1,10 @@
+.bodybackground{
+    background-image: url("https://image.freepik.com/free-vector/empty-colourful-frame-banner-template_1308-61075.jpg");
+    background-position: center;
+    background-size: cover;}
+
+    #mycanvas{
+        border-width: 10px;
+        background-color: azure;
+        border-style:ridge ;
+    }
